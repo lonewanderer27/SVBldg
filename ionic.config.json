@@ -1,0 +1,7 @@
+{
+  "name": "SVBldg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
